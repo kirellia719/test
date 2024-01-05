@@ -1,3 +1,18 @@
+:root{
+  --main-color: #4cb5f9;
+  --main-color-hover: #36a9de;
+  --text-color: #000000;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+}
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
